@@ -1,0 +1,14 @@
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.exe
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.deps.json
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.runtimeconfig.json
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.dll
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.pdb
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.AssemblyInfoInputs.cache
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.AssemblyInfo.cs
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.csproj.CoreCompileInputs.cache
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.dll
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\refint\FizzBuzz2.dll
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.pdb
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.genruntimeconfig.cache
+C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\ref\FizzBuzz2.dll

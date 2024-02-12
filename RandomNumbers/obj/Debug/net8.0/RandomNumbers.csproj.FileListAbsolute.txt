@@ -1,0 +1,14 @@
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\bin\Debug\net8.0\RandomNumbers.exe
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\bin\Debug\net8.0\RandomNumbers.deps.json
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\bin\Debug\net8.0\RandomNumbers.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\bin\Debug\net8.0\RandomNumbers.dll
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\bin\Debug\net8.0\RandomNumbers.pdb
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.dll
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\refint\RandomNumbers.dll
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.pdb
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\RandomNumbers.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\RandomNumbers\obj\Debug\net8.0\ref\RandomNumbers.dll

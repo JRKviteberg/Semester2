@@ -1,0 +1,14 @@
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\bin\Debug\net8.0\PetsInClass.exe
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\bin\Debug\net8.0\PetsInClass.deps.json
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\bin\Debug\net8.0\PetsInClass.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\bin\Debug\net8.0\PetsInClass.dll
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\bin\Debug\net8.0\PetsInClass.pdb
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.dll
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\refint\PetsInClass.dll
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.pdb
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\PetsInClass.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\PetsInClass\obj\Debug\net8.0\ref\PetsInClass.dll

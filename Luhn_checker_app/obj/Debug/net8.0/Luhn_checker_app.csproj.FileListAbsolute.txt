@@ -1,0 +1,14 @@
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\bin\Debug\net8.0\Luhn_checker_app.exe
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\bin\Debug\net8.0\Luhn_checker_app.deps.json
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\bin\Debug\net8.0\Luhn_checker_app.runtimeconfig.json
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\bin\Debug\net8.0\Luhn_checker_app.dll
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\bin\Debug\net8.0\Luhn_checker_app.pdb
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.AssemblyInfoInputs.cache
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.AssemblyInfo.cs
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.csproj.CoreCompileInputs.cache
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.dll
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\refint\Luhn_checker_app.dll
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.pdb
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\Luhn_checker_app.genruntimeconfig.cache
+C:\Users\janro\RiderProjects\2024\Semester 2\Luhn_checker_app\obj\Debug\net8.0\ref\Luhn_checker_app.dll

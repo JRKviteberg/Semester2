@@ -1,0 +1,14 @@
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\bin\Debug\net8.0\AgeChecker.exe
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\bin\Debug\net8.0\AgeChecker.deps.json
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\bin\Debug\net8.0\AgeChecker.runtimeconfig.json
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\bin\Debug\net8.0\AgeChecker.dll
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\bin\Debug\net8.0\AgeChecker.pdb
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.AssemblyInfoInputs.cache
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.AssemblyInfo.cs
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.csproj.CoreCompileInputs.cache
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.dll
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\refint\AgeChecker.dll
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.pdb
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.genruntimeconfig.cache
+C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\ref\AgeChecker.dll

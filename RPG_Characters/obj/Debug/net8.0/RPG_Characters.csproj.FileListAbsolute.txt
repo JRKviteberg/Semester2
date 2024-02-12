@@ -1,0 +1,14 @@
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\bin\Debug\net8.0\RPG_Characters.exe
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\bin\Debug\net8.0\RPG_Characters.deps.json
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\bin\Debug\net8.0\RPG_Characters.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\bin\Debug\net8.0\RPG_Characters.dll
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\bin\Debug\net8.0\RPG_Characters.pdb
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.dll
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\refint\RPG_Characters.dll
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.pdb
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\RPG_Characters.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\RPG_Characters\obj\Debug\net8.0\ref\RPG_Characters.dll
