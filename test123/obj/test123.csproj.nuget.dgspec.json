@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ga\\RiderProjects\\2024\\Semester 2\\TestTDDCalc\\TestTDDCalc.csproj": {}
+    "C:\\ga\\RiderProjects\\2024\\Semester 2\\test123\\test123.csproj": {}
   },
   "projects": {
-    "C:\\ga\\RiderProjects\\2024\\Semester 2\\TestTDDCalc\\TestTDDCalc.csproj": {
+    "C:\\ga\\RiderProjects\\2024\\Semester 2\\test123\\test123.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ga\\RiderProjects\\2024\\Semester 2\\TestTDDCalc\\TestTDDCalc.csproj",
-        "projectName": "TestTDDCalc",
-        "projectPath": "C:\\ga\\RiderProjects\\2024\\Semester 2\\TestTDDCalc\\TestTDDCalc.csproj",
+        "projectUniqueName": "C:\\ga\\RiderProjects\\2024\\Semester 2\\test123\\test123.csproj",
+        "projectName": "test123",
+        "projectPath": "C:\\ga\\RiderProjects\\2024\\Semester 2\\test123\\test123.csproj",
         "packagesPath": "C:\\Users\\janro\\.nuget\\packages\\",
-        "outputPath": "C:\\ga\\RiderProjects\\2024\\Semester 2\\TestTDDCalc\\obj\\",
+        "outputPath": "C:\\ga\\RiderProjects\\2024\\Semester 2\\test123\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\janro\\AppData\\Roaming\\NuGet\\NuGet.Config"
