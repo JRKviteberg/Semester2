@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\bin\Debug\net8.0\IkeaApp.exe
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\bin\Debug\net8.0\IkeaApp.deps.json
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\bin\Debug\net8.0\IkeaApp.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\bin\Debug\net8.0\IkeaApp.dll
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\bin\Debug\net8.0\IkeaApp.pdb
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.dll
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\refint\IkeaApp.dll
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.pdb
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\IkeaApp.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\IkeaApp\obj\Debug\net8.0\ref\IkeaApp.dll

@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\bin\Debug\net8.0\LamdaMVP.exe
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\bin\Debug\net8.0\LamdaMVP.deps.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\bin\Debug\net8.0\LamdaMVP.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\bin\Debug\net8.0\LamdaMVP.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\bin\Debug\net8.0\LamdaMVP.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\refint\LamdaMVP.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\LamdaMVP.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\LamdaMVP\obj\Debug\net8.0\ref\LamdaMVP.dll

@@ -12,3 +12,18 @@ C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\refint\Numb
 C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.pdb
 C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\Numberer.genruntimeconfig.cache
 C:\Users\janro\RiderProjects\2024\Numberer\Numberer\obj\Debug\net8.0\ref\Numberer.dll
+C:\ga\RiderProjects\2024\Semester 2\Numberer\bin\Debug\net8.0\Numberer.exe
+C:\ga\RiderProjects\2024\Semester 2\Numberer\bin\Debug\net8.0\Numberer.deps.json
+C:\ga\RiderProjects\2024\Semester 2\Numberer\bin\Debug\net8.0\Numberer.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\Numberer\bin\Debug\net8.0\Numberer.dll
+C:\ga\RiderProjects\2024\Semester 2\Numberer\bin\Debug\net8.0\Numberer.pdb
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.dll
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\refint\Numberer.dll
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.pdb
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\Numberer.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\Numberer\obj\Debug\net8.0\ref\Numberer.dll

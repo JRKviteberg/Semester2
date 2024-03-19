@@ -12,3 +12,18 @@ C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\refint\
 C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.pdb
 C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\AgeChecker.genruntimeconfig.cache
 C:\Users\janro\RiderProjects\2024\AgeChecker\AgeChecker\obj\Debug\net8.0\ref\AgeChecker.dll
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\bin\Debug\net8.0\AgeChecker.exe
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\bin\Debug\net8.0\AgeChecker.deps.json
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\bin\Debug\net8.0\AgeChecker.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\bin\Debug\net8.0\AgeChecker.dll
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\bin\Debug\net8.0\AgeChecker.pdb
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.dll
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\refint\AgeChecker.dll
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.pdb
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\AgeChecker.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\AgeChecker\obj\Debug\net8.0\ref\AgeChecker.dll

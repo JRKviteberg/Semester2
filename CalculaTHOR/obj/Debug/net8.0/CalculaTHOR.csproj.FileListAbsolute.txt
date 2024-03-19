@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\bin\Debug\net8.0\CalculaTHOR.exe
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\bin\Debug\net8.0\CalculaTHOR.deps.json
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\bin\Debug\net8.0\CalculaTHOR.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\bin\Debug\net8.0\CalculaTHOR.dll
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\bin\Debug\net8.0\CalculaTHOR.pdb
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.dll
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\refint\CalculaTHOR.dll
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.pdb
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\CalculaTHOR.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\CalculaTHOR\obj\Debug\net8.0\ref\CalculaTHOR.dll

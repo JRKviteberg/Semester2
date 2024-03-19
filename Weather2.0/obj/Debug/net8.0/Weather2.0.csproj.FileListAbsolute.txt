@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\bin\Debug\net8.0\Weather2.0.exe
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\bin\Debug\net8.0\Weather2.0.deps.json
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\bin\Debug\net8.0\Weather2.0.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\bin\Debug\net8.0\Weather2.0.dll
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\bin\Debug\net8.0\Weather2.0.pdb
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.dll
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\refint\Weather2.0.dll
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.pdb
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\Weather2.0.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\Weather2.0\obj\Debug\net8.0\ref\Weather2.0.dll

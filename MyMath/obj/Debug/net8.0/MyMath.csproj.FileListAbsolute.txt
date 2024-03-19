@@ -1,0 +1,5 @@
+C:\ga\RiderProjects\2024\Semester 2\MyMath\obj\Debug\net8.0\MyMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\MyMath\obj\Debug\net8.0\MyMath.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\MyMath\obj\Debug\net8.0\MyMath.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\MyMath\obj\Debug\net8.0\MyMath.sourcelink.json

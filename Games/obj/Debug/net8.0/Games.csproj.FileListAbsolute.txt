@@ -13,3 +13,5 @@ C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\refint\Games.dll
 C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\Games.pdb
 C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\Games.genruntimeconfig.cache
 C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\ref\Games.dll
+C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\Games.csproj.AssemblyReference.cache
+C:\ga\RiderProjects\2024\Semester 2\Games\obj\Debug\net8.0\Games.sourcelink.json

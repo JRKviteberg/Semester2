@@ -12,3 +12,18 @@ C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\refint\Fiz
 C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.pdb
 C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.genruntimeconfig.cache
 C:\Users\janro\RiderProjects\2024\FizzBuzz\FizzBuzz2\obj\Debug\net8.0\ref\FizzBuzz2.dll
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.exe
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.deps.json
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.dll
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\bin\Debug\net8.0\FizzBuzz2.pdb
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.dll
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\refint\FizzBuzz2.dll
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.pdb
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\FizzBuzz2.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\FizzBuzz2\obj\Debug\net8.0\ref\FizzBuzz2.dll

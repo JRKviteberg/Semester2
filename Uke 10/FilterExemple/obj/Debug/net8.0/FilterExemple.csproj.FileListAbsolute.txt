@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\bin\Debug\net8.0\FilterExemple.exe
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\bin\Debug\net8.0\FilterExemple.deps.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\bin\Debug\net8.0\FilterExemple.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\bin\Debug\net8.0\FilterExemple.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\bin\Debug\net8.0\FilterExemple.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\refint\FilterExemple.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\FilterExemple.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\FilterExemple\obj\Debug\net8.0\ref\FilterExemple.dll

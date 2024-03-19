@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\bin\Debug\net8.0\TextDecorator.exe
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\bin\Debug\net8.0\TextDecorator.deps.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\bin\Debug\net8.0\TextDecorator.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\bin\Debug\net8.0\TextDecorator.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\bin\Debug\net8.0\TextDecorator.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\refint\TextDecorator.dll
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.pdb
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\TextDecorator.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\Uke 10\TextDecorator\obj\Debug\net8.0\ref\TextDecorator.dll

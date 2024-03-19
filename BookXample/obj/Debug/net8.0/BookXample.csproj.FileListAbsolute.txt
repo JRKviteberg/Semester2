@@ -1,0 +1,15 @@
+C:\ga\RiderProjects\2024\Semester 2\BookXample\bin\Debug\net8.0\BookXample.exe
+C:\ga\RiderProjects\2024\Semester 2\BookXample\bin\Debug\net8.0\BookXample.deps.json
+C:\ga\RiderProjects\2024\Semester 2\BookXample\bin\Debug\net8.0\BookXample.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\BookXample\bin\Debug\net8.0\BookXample.dll
+C:\ga\RiderProjects\2024\Semester 2\BookXample\bin\Debug\net8.0\BookXample.pdb
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.dll
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\refint\BookXample.dll
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.pdb
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\BookXample.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\BookXample\obj\Debug\net8.0\ref\BookXample.dll

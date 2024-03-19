@@ -1,0 +1,17 @@
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\Data\data.txt
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\Data\numbers.txt
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\LetsTrySomething.exe
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\LetsTrySomething.deps.json
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\LetsTrySomething.runtimeconfig.json
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\LetsTrySomething.dll
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\bin\Debug\net8.0\LetsTrySomething.pdb
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.GeneratedMSBuildEditorConfig.editorconfig
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.AssemblyInfoInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.AssemblyInfo.cs
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.csproj.CoreCompileInputs.cache
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.sourcelink.json
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.dll
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\refint\LetsTrySomething.dll
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.pdb
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\LetsTrySomething.genruntimeconfig.cache
+C:\ga\RiderProjects\2024\Semester 2\LetsTrySomething\obj\Debug\net8.0\ref\LetsTrySomething.dll
