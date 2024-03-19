@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LamdaMVP")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef378c39911f656acc85bc8b090f52318e1c5b49")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9eee0256fea7929c5cdaa300ec8663374137815")]
 [assembly: System.Reflection.AssemblyProductAttribute("LamdaMVP")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LamdaMVP")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

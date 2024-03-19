@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TestTDDCalc")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a33f8f6b254a3b8ceee5b2b76e4d749dbf265cb2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a9eee0256fea7929c5cdaa300ec8663374137815")]
 [assembly: System.Reflection.AssemblyProductAttribute("TestTDDCalc")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TestTDDCalc")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
